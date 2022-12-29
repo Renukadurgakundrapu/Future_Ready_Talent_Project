@@ -1,0 +1,140 @@
+2022-05-18 21:37:22,141 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:37:23,000 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:37:25,810 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:38:17,238 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:38:17,916 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:38:20,430 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:38:20,709 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 0 1 1 1 1 1 1]
+2022-05-18 21:40:11,401 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:40:12,210 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:40:14,735 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:40:14,792 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15412080536912753, best pos: [0 0 1 0 1 1 1 1 1 1]
+2022-05-18 21:41:39,503 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:41:40,294 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:41:42,604 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:41:42,675 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 1 0 1 1 1]
+2022-05-18 21:43:18,179 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:43:18,870 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:43:21,323 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:43:21,378 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16612080536912754, best pos: [1 1 1 0 1 1 0 1 0 0]
+2022-05-18 21:47:34,479 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:47:35,131 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:47:37,913 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:47:37,968 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16612080536912754, best pos: [0 0 1 0 1 1 1 1 1 0]
+2022-05-18 21:49:22,946 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:49:23,589 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:49:27,328 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:49:27,379 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15412080536912753, best pos: [0 1 0 1 1 1 0 1 1 1]
+2022-05-18 21:51:05,908 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:51:06,756 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:51:09,470 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:51:09,530 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15412080536912753, best pos: [1 1 0 1 1 1 1 0 0 1]
+2022-05-18 21:51:09,813 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2022-05-18 21:52:03,407 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:52:04,208 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:52:07,710 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:52:07,766 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15412080536912753, best pos: [1 1 0 1 1 1 1 1 0 0]
+2022-05-18 21:56:55,378 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:56:56,032 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:58:16,793 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:58:17,521 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:58:20,330 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:58:20,381 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 1 1 0 1 1 1 0 1 1]
+2022-05-18 21:59:21,720 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 21:59:22,378 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 21:59:24,913 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 21:59:24,977 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16612080536912754, best pos: [1 1 0 1 1 0 0 1 1 0]
+2022-05-18 22:17:22,092 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:17:22,807 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:17:26,286 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:17:26,350 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.11812080536912754, best pos: [1 1 1 1 1 1 1 1 1 1]
+2022-05-18 22:18:31,551 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:18:32,406 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:18:34,964 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:18:35,023 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 0 1 1 1 1]
+2022-05-18 22:19:44,505 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:19:45,244 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:19:48,380 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:19:48,441 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17812080536912756, best pos: [0 0 1 1 0 1 1 0 1 0]
+2022-05-18 22:20:50,421 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:20:51,071 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:20:53,658 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:20:53,725 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15412080536912753, best pos: [1 1 1 1 0 1 0 0 1 1]
+2022-05-18 22:21:09,714 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:21:09,771 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 0 1 1 1 1 1 1]
+2022-05-18 22:22:00,747 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:22:01,394 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:22:03,611 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:22:03,667 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 1 1 1 0 1 1 1]
+2022-05-18 22:22:19,938 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:22:19,992 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 1 1 1 1 1 1 0]
+2022-05-18 22:23:27,813 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:23:28,659 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:23:31,096 - pyswarms.discrete.binary - INFO - Optimize for 20 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:23:35,542 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.11812080536912754, best pos: [1 1 1 1 1 1 1 1 1 1]
+2022-05-18 22:24:21,997 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:24:22,829 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:24:25,225 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:24:25,722 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 1 0 1 1 1]
+2022-05-18 22:24:54,735 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:24:55,159 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 1 1 1 1 1 1 0]
+2022-05-18 22:31:45,966 - tensorflow - WARNING - From c:\users\admin\appdata\local\programs\python\python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-05-18 22:31:47,083 - tensorflow - WARNING - From c:\users\admin\appdata\local\programs\python\python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-05-18 22:32:33,467 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:32:34,166 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 1 1 0 1 1]
+2022-05-18 22:33:04,228 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:33:04,965 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.14212080536912752, best pos: [1 0 1 1 1 1 1 0 1 1]
+2022-05-18 22:33:58,716 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:33:59,379 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 1 1 1 0 1]
+2022-05-18 22:40:32,342 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-05-18 22:40:33,072 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 1 0 1 1 1 1]
+2022-06-03 18:45:27,287 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-06-03 18:45:32,886 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-06-03 18:45:56,936 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-06-03 18:45:59,003 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 0 1 1 1 1 1 1]
+2022-06-03 18:46:47,881 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-06-03 18:46:48,392 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.13012080536912754, best pos: [1 1 1 1 0 1 1 1 1 1]

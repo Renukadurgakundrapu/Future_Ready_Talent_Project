@@ -1,0 +1,2 @@
+https://github.com/NipamNayan/Word-Embeddings-and-Deep-Learning-for-prediction-of-Mental-Illness/blob/master/Original%20Data%20Source%20Link%20for%20downloading.md
+https://www.dropbox.com/s/e29bgzh0nggv6r0/eRisk2018.ZIP?dl=0
